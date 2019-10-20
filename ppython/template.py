@@ -173,3 +173,6 @@ def motion(event):
 
 root.bind('<Motion>', motion)
 root.mainloop()
+
+def text(text, x, y):
+    pass
